@@ -1,0 +1,174 @@
+{
+  "transcript_data": {
+    "text": "Hello, my name is William Higgins. I am a manager in the Solutions Engineering Department at Box.com. I hope you're having a great day. This is a test audio file to be able to run a voice transcription on this file. It's actually pretty boring, but I can go on and tell you that I'm watching a movie right now called Bullet Train, starring Brad Pitt. It's a very good movie. I have it on mute because I'm also listening to the Atlanta Braves baseball game, the radio broadcast. So that's about all I have for now. So this is my test audio clip.",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.520000457763672,
+        "text": " Hello, my name is William Higgins. I am a manager in the Solutions Engineering"
+      },
+      {
+        "start": 8.520000457763672,
+        "end": 16.68000030517578,
+        "text": " Department at Box.com. I hope you're having a great day. This is a test audio"
+      },
+      {
+        "start": 16.68000030517578,
+        "end": 25.079999923706055,
+        "text": " file to be able to run a voice transcription on this file. It's actually"
+      },
+      {
+        "start": 25.079999923706055,
+        "end": 31.639999389648438,
+        "text": " pretty boring, but I can go on and tell you that I'm watching a movie right now"
+      },
+      {
+        "start": 31.639999389648438,
+        "end": 40.400001525878906,
+        "text": " called Bullet Train, starring Brad Pitt. It's a very good movie. I have it on mute"
+      },
+      {
+        "start": 40.400001525878906,
+        "end": 46.040000915527344,
+        "text": " because I'm also listening to the Atlanta Braves baseball game, the radio"
+      },
+      {
+        "start": 46.040000915527344,
+        "end": 56.439998626708984,
+        "text": " broadcast. So that's about all I have for now. So this is my test audio clip."
+      }
+    ]
+  },
+  "keywords": [
+    "William Higgins",
+    "Solutions Engineering Department",
+    "Box.com",
+    "Bullet Train",
+    "Brad Pitt",
+    "Atlanta Braves",
+    "voice transcription",
+    "radio broadcast"
+  ],
+  "summary": "William Higgins, a manager in the Solutions Engineering Department at Box.com, introduces himself in a test audio file designed for voice transcription purposes. He mentions that he is currently watching the movie \"Bullet Train\" starring Brad Pitt on mute while listening to the Atlanta Braves baseball game on the radio. The content of the audio is intended to be mundane as it serves primarily as a test for transcription.",
+  "box_skills_metadata": {
+    "cards": [
+      {
+        "type": "transcript",
+        "title": "Transcript",
+        "entries": [
+          {
+            "text": " Hello, my name is William Higgins. I am a manager in the Solutions Engineering",
+            "appears": [
+              {
+                "start": 0.0,
+                "end": 8.520000457763672
+              }
+            ]
+          },
+          {
+            "text": " Department at Box.com. I hope you're having a great day. This is a test audio",
+            "appears": [
+              {
+                "start": 8.520000457763672,
+                "end": 16.68000030517578
+              }
+            ]
+          },
+          {
+            "text": " file to be able to run a voice transcription on this file. It's actually",
+            "appears": [
+              {
+                "start": 16.68000030517578,
+                "end": 25.079999923706055
+              }
+            ]
+          },
+          {
+            "text": " pretty boring, but I can go on and tell you that I'm watching a movie right now",
+            "appears": [
+              {
+                "start": 25.079999923706055,
+                "end": 31.639999389648438
+              }
+            ]
+          },
+          {
+            "text": " called Bullet Train, starring Brad Pitt. It's a very good movie. I have it on mute",
+            "appears": [
+              {
+                "start": 31.639999389648438,
+                "end": 40.400001525878906
+              }
+            ]
+          },
+          {
+            "text": " because I'm also listening to the Atlanta Braves baseball game, the radio",
+            "appears": [
+              {
+                "start": 40.400001525878906,
+                "end": 46.040000915527344
+              }
+            ]
+          },
+          {
+            "text": " broadcast. So that's about all I have for now. So this is my test audio clip.",
+            "appears": [
+              {
+                "start": 46.040000915527344,
+                "end": 56.439998626708984
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Summary",
+        "entries": [
+          {
+            "text": "William Higgins, a manager in the Solutions Engineering Department at Box.com, introduces himself in a test audio file designed for voice transcription purposes. He mentions that he is currently watching the movie \"Bullet Train\" starring Brad Pitt on mute while listening to the Atlanta Braves baseball game on the radio. The content of the audio is intended to be mundane as it serves primarily as a test for transcription.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "keyword",
+        "title": "Keywords",
+        "entries": [
+          {
+            "text": "William Higgins",
+            "type": "keyword"
+          },
+          {
+            "text": "Solutions Engineering Department",
+            "type": "keyword"
+          },
+          {
+            "text": "Box.com",
+            "type": "keyword"
+          },
+          {
+            "text": "Bullet Train",
+            "type": "keyword"
+          },
+          {
+            "text": "Brad Pitt",
+            "type": "keyword"
+          },
+          {
+            "text": "Atlanta Braves",
+            "type": "keyword"
+          },
+          {
+            "text": "voice transcription",
+            "type": "keyword"
+          },
+          {
+            "text": "radio broadcast",
+            "type": "keyword"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+flask
+requests
+python-dotenv
+boxsdk[jwt]
+openai>=1.0.0
+gunicorn
+google-cloud-storage
